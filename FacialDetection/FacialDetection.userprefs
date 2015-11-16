@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="FacialDetection\FacialDetection.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.169.254.220.177:5555" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="FacialDetection\MainActivity.cs" Line="124" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FacialDetection AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
